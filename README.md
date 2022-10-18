@@ -1,2 +1,2 @@
-# Example_For_C++
-My Example C++
+# Example_For_C
+My Example C
